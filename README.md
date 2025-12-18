@@ -2,7 +2,7 @@
 
 # UNSW-NB15 Cybersecurity Data Analysis
 
-This repository contains the code for performing exploratory data analysis (EDA) and statistical analysis on the UNSW-NB15 dataset. The UNSW-NB15 dataset is a widely used dataset in cybersecurity research, providing a comprehensive set of features for analyzing various types of network traffic and attacks.
+This repository contains the code for performing exploratory data analysis (EDA) and statistical analysis on the UNSW-NB15 dataset. The UNSW-NB15 dataset is a widely used dataset in cybersecurity research, providing a comprehensive set of features for analyzing various types of network traffic and attacks
 
 ## Table of Contents
 
